@@ -41,6 +41,6 @@ class HomuraMCPlugin():
 <div style="display: flex;">
 	<div class="maeato">
 		<b>前</b><br>
-		<a href="/docs/jp/server/config/">コンフィグ</a>
+		<a href="/docs/jp/config/">コンフィグ</a>
 	</div>
 </div>
