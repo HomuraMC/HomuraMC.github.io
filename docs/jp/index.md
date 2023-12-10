@@ -11,7 +11,7 @@
 <div class="alert alert-info" role="alert">
 	<b>Info</b><br>
 	このドキュメントは、以下のコントリビューターによって翻訳/作成されました。ありがとうございます。<br>
-	![](https://mc-heads.net/avatar/585c5f3240214d789e9302f13b5e0272/16.png =16x16) [nennneko5787](https://github.com/nennneko5787)
+	<img src="https://mc-heads.net/avatar/585c5f3240214d789e9302f13b5e0272/16.png" width="16" height="16"></img> [nennneko5787](https://github.com/nennneko5787)
 	</p>
 </div>
 
