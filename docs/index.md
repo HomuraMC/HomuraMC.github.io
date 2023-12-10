@@ -7,7 +7,7 @@ lang: en
 Please select a language.  
 <div class="alert alert-info" role="alert">
 	<b>Info</b><br>
-	(If your available language is not listed, please wait until it is addressed or <a href="({{ site.github.repository_url }}/issues/new">submit an issue</a>!)  
+	(If your available language is not listed, please wait until it is addressed or <a href="({{ site.github.repository_url }}/issues/new">submit an issue</a>!)<br>
 	(Or <a href="({{ site.github.repository_url }}/compare">submit a pull request</a> if you are willing to help translate)  
 </div>
   
