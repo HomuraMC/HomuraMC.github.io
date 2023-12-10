@@ -2,92 +2,92 @@
 このガイドでは、HomuraMCを利用してMinecraftサーバーを構築する事ができます。
 ## システム要件
 ### 対応バージョン
-<table>
-    <tr>
-        <td>Minecraft Version</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>~1.16.3</td>
-        <td>×</td>
-    </tr>
-    <tr>
-        <td>1.16.4 / 1.16.5</td>
-        <td>◯</td>
-    </tr>
-    <tr>
-        <td>1.17~</td>
-        <td>×</td>
-    </tr>
-    <tr>
-        <td>統合版</td>
-        <td>×</td>
-    </tr>
+<table class="table table-striped">
+	<tr>
+		<th scope="col">Minecraft Version</th>
+		<th scope="col"></th>
+	</tr>
+	<tr>
+		<td>~1.16.3</td>
+		<td>×</td>
+	</tr>
+	<tr>
+		<td>1.16.4 / 1.16.5</td>
+		<td>◯</td>
+	</tr>
+	<tr>
+		<td>1.17~</td>
+		<td>×</td>
+	</tr>
+	<tr>
+		<td>統合版</td>
+		<td>×</td>
+	</tr>
 </table>
 
 段階的に全てのバージョンに対応する予定です。
 
 ### 対応OS
-<table>
-    <tr>
-        <td>OS</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>Windows</td>
-        <td>△<a href="#sys-ok-1"><small>*1</small></a></td>
-    </tr>
-    <tr>
-        <td>Mac</td>
-        <td>△<a href="#sys-ok-2"><small>*1</small></a></td>
-    </tr>
-    <tr>
-        <td>Linux</td>
-        <td>◯</td>
-    </tr>
+<table class="table table-striped">
+	<tr>
+		<th scope="col">OS</th>
+		<th scope="col"></th>
+	</tr>
+	<tr>
+		<td>Windows</td>
+		<td>△<a href="#sys-ok-1"><small>*1</small></a></td>
+	</tr>
+	<tr>
+		<td>Mac</td>
+		<td>△<a href="#sys-ok-2"><small>*1</small></a></td>
+	</tr>
+	<tr>
+		<td>Linux</td>
+		<td>◯</td>
+	</tr>
 </table>
 
 <a id="sys-ok-1"></a><small>*1 WSLを使用することで動かすことができます。なのでWindows 10 / Windows 11でしか動作しません。</small><br>
 <a id="sys-ok-2"></a><small>*2 動作を確認できていない</small>
 
 ### 必須スペック
-<table>
-    <tr>
-        <td>スペック</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>CPU</td>
-        <td>1GHz</td>
-    </tr>
-    <tr>
-        <td>RAM</td>
-        <td>2GB</td>
-    </tr>
-    <tr>
-        <td>記憶デバイス</td>
-        <td>512MB</td>
-    </tr>
+<table class="table table-striped">
+	<tr>
+		<th scope="col">スペック</th>
+		<th scope="col"></th>
+	</tr>
+	<tr>
+		<td>CPU</td>
+		<td>1GHz</td>
+	</tr>
+	<tr>
+		<td>RAM</td>
+		<td>2GB</td>
+	</tr>
+	<tr>
+		<td>記憶デバイス</td>
+		<td>512MB</td>
+	</tr>
 </table>
 
 ### 推奨スペック
-<table>
-    <tr>
-        <td>スペック</td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>CPU</td>
-        <td>2.5GHz</td>
-    </tr>
-    <tr>
-        <td>RAM</td>
-        <td>4GB</td>
-    </tr>
-    <tr>
-        <td>記憶デバイス</td>
-        <td>1024MB</td>
-    </tr>
+<table class="table table-striped">
+	<tr>
+		<th scope="col">スペック</th>
+		<th scope="col"></th>
+	</tr>
+	<tr>
+		<td>CPU</td>
+		<td>2.5GHz</td>
+	</tr>
+	<tr>
+		<td>RAM</td>
+		<td>4GB</td>
+	</tr>
+	<tr>
+		<td>記憶デバイス</td>
+		<td>1024MB</td>
+	</tr>
 </table>
 
 ## サーバーの構築
@@ -134,6 +134,6 @@ python3 main.py
 
 	<div class="maeato">
 		<b>次</b><br>
-		<a href="/docs/jp/config">コンフィグ</a>
+		<a href="/docs/jp/config/">コンフィグ</a>
 	</div>
 </div>
