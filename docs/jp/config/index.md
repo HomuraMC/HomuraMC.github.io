@@ -1,6 +1,6 @@
 ---
 layout: jp
-title: Main Page
+title: コンフィグ
 lang: ja-JP
 ---
 # コンフィグ

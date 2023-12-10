@@ -1,6 +1,6 @@
 ---
 layout: jp
-title: Main Page
+title: サーバーを構築する
 lang: ja-JP
 ---
 # サーバーを構築する

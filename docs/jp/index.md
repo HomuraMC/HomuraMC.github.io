@@ -1,6 +1,6 @@
 ---
 layout: jp
-title: Document Main Page
+title: Document Main Page (jp)
 lang: ja-JP
 ---
 # HomuraMC ドキュメント

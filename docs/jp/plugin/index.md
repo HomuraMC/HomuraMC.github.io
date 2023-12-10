@@ -1,6 +1,6 @@
 ---
 layout: jp
-title: Main Page
+title: プラグインを書く
 lang: ja-JP
 ---
 # プラグインを書く
