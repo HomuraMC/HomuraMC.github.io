@@ -1,6 +1,7 @@
-<h1>HomuraMC</h1>
-<p>a Minecraft server software</p>
-<pre><code class="python">from classes import HomuraServerProtocol
+# HomuraMC
+a Minecraft server software
+{% highlight python %}
+from classes import HomuraServerProtocol
 
 class HomuraMCPlugin():
 	@staticmethod
@@ -10,5 +11,5 @@ class HomuraMCPlugin():
 					self.buff_type.pack_varint(0),
 					self.buff_type.pack_chat(f"§aHello {self.display_name}"),
 				)
-</code></pre>
-<img src="./screenshots/2023-12-10_11.23.12.png"></img>
+{% endhighlight %}
+![hello](./screenshots/2023-12-10_11.23.12.png)
