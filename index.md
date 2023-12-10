@@ -1,5 +1,5 @@
-# HomuraMC
-a Minecraft server software
+<h1>HomuraMC</h1>
+<p>a Minecraft server software</p>
 <pre><code class="python">from classes import HomuraServerProtocol
 
 class HomuraMCPlugin():
@@ -11,4 +11,4 @@ class HomuraMCPlugin():
 					self.buff_type.pack_chat(f"§aHello {self.display_name}"),
 				)
 </code></pre>
-![hello](./screenshots/2023-12-10_11.23.12.png)
+<img src="./screenshots/2023-12-10_11.23.12.png"></img>
