@@ -9,3 +9,36 @@
 	width: 50%;
 	height: 20%;
 }
+
+p {
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+}
+
+figure {
+    display: inline-block;
+    width: 45%;
+    height: 50%;
+	margin-left: 30%;
+	margin-right: 50%;
+}
+
+img {
+	display: block; 
+	margin: auto;
+}
+
+table {
+	width: 50%;
+}
