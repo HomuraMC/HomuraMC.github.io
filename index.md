@@ -1,5 +1,6 @@
 # HomuraMC
 a Minecraft server software
+## Gallery
 {% highlight python %}
 from classes import HomuraServerProtocol
 
