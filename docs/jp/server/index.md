@@ -1,3 +1,8 @@
+---
+layout: jp
+title: Main Page
+lang: ja-JP
+---
 # サーバーを構築する
 このガイドでは、HomuraMCを利用してMinecraftサーバーを構築する事ができます。
 ## システム要件

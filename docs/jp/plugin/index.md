@@ -1,3 +1,8 @@
+---
+layout: jp
+title: Main Page
+lang: ja-JP
+---
 # プラグインを書く
 このガイドでは、HomuraMCのプラグインAPIを利用してミニゲームやその他様々なものを作成することができます。  
 ## プラグインの雛形

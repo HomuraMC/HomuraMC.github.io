@@ -1,3 +1,8 @@
+---
+layout: jp
+title: Main Page
+lang: ja-JP
+---
 # コンフィグ
 HomuraMCのHomura.iniファイルは、HomuraMCの設定を変更するためのファイルです。
 <div class="alert alert-warning" role="alert">

@@ -1,13 +1,27 @@
 ---
 layout: default
 title: Main Page
-lang: en
+lang: en-US
 ---
 # HomuraMC
 a Minecraft server software
 ## Gallery
 {% highlight python %}
 from classes import HomuraServerProtocol
+
+class HomuraMCPluginBackends():
+    @staticmethod
+    def getPluginName():
+        return "MyCoolPlugin"
+    @staticmethod
+    def getPluginDescription():
+        return "MyCoolPlugin by nennneko5787"
+    @staticmethod
+    def getPluginAuthors():
+        return ["me"]
+    @staticmethod
+    def getPluginVersion():
+        return "0.0.1"
 
 class HomuraMCPlugin():
 	@staticmethod
