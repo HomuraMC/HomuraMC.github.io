@@ -1,3 +1,8 @@
+---
+layout: default
+title: Document Main Page
+lang: en
+---
 # Welcome to the HomuraMC document
 Please select a language.  
 (If your available language is not listed, please wait until it is addressed or [submit an issue]({{ site.github.repository_url }}/issues/new)!)  

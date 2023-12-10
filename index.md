@@ -1,3 +1,8 @@
+---
+layout: default
+title: Main Page
+lang: en
+---
 # HomuraMC
 a Minecraft server software
 ## Gallery

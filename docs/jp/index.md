@@ -1,3 +1,8 @@
+---
+layout: jp
+title: Document Main Page
+lang: ja-JP
+---
 # HomuraMC ドキュメント
 ## はじめに
 ようこそ。ここがPythonで書かれたMinecraftサーバーソフトウェア、**HomuraMC**の公式ドキュメントです。  
