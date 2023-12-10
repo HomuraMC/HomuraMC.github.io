@@ -110,11 +110,11 @@ If you are able to install it, go to the next step.
 
 ### Building and constructing HomuraMC environment
 First, run this command in a folder of your choice.
-````
+```
 git clone https://github.com/HomuraMC/Homura.git
 ```
 Next, create a Python virtual environment. (Recommended)
-````
+```
 python3 -m venv homura
 ```
 Once you have created the virtual environment, access Python in the virtual environment using the following command.
@@ -126,7 +126,7 @@ Next, use pip to install the libraries required by Homura.
 python3 -m pip install -r requirements.txt
 ```
 After installation, you can start the server by running the following command.  
-````
+```
 python3 main.py
 ```
 Congratulations, you have successfully built HomuraMC! If you have made it this far without any errors, you have successfully built HomuraMC!
