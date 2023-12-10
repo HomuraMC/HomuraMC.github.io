@@ -2,38 +2,93 @@
 このガイドでは、HomuraMCを利用してMinecraftサーバーを構築する事ができます。
 ## システム要件
 ### 対応バージョン
-| Minecraft Version |  |
-| ---- | ---- |
-| ~1.16.3 | × |
-| 1.16.4 / 1.16.5 | ◯ |
-| 1.17~ | × |
-| 統合版 | × |
+<table>
+    <tr>
+        <td>Minecraft Version</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>~1.16.3</td>
+        <td>×</td>
+    </tr>
+    <tr>
+        <td>1.16.4 / 1.16.5</td>
+        <td>◯</td>
+    </tr>
+    <tr>
+        <td>1.17~</td>
+        <td>×</td>
+    </tr>
+    <tr>
+        <td>統合版</td>
+        <td>×</td>
+    </tr>
+</table>
 
 段階的に全てのバージョンに対応する予定です。
 
 ### 対応OS
-| OS |  |
-| ---- | ---- |
-| Windows | △<a href="#sys-ok-1"><small>*1</small></a> |
-| Mac | △<a href="#sys-ok-2"><small>*1</small></a> |
-| Linux | ◯ |
+<table>
+    <tr>
+        <td>OS</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Windows</td>
+        <td>△<a href="#sys-ok-1"><small>*1</small></a></td>
+    </tr>
+    <tr>
+        <td>Mac</td>
+        <td>△<a href="#sys-ok-2"><small>*1</small></a></td>
+    </tr>
+    <tr>
+        <td>Linux</td>
+        <td>◯</td>
+    </tr>
+</table>
 
 <a id="sys-ok-1"></a><small>*1 WSLを使用することで動かすことができます。なのでWindows 10 / Windows 11でしか動作しません。</small><br>
 <a id="sys-ok-2"></a><small>*2 動作を確認できていない</small>
 
 ### 必須スペック
-| スペック |  |
-| ---- | ---- |
-| CPU | 1GHz |
-| RAM | 2GB |
-| 記憶デバイス | 512MB |
+<table>
+    <tr>
+        <td>スペック</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>CPU</td>
+        <td>1GHz</td>
+    </tr>
+    <tr>
+        <td>RAM</td>
+        <td>2GB</td>
+    </tr>
+    <tr>
+        <td>記憶デバイス</td>
+        <td>512MB</td>
+    </tr>
+</table>
 
 ### 推奨スペック
-| スペック |  |
-| ---- | ---- |
-| CPU | 2.5GHz |
-| RAM | 4GB |
-| 記憶デバイス | 1024MB |
+<table>
+    <tr>
+        <td>スペック</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>CPU</td>
+        <td>2.5GHz</td>
+    </tr>
+    <tr>
+        <td>RAM</td>
+        <td>4GB</td>
+    </tr>
+    <tr>
+        <td>記憶デバイス</td>
+        <td>1024MB</td>
+    </tr>
+</table>
 
 ## サーバーの構築
 ### Pythonのインストール
