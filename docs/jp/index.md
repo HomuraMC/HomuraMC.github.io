@@ -12,7 +12,6 @@
 	<b>Info</b><br>
 	このドキュメントは、以下のコントリビューターによって翻訳/作成されました。ありがとうございます。<br>
 	<img src="https://mc-heads.net/avatar/585c5f3240214d789e9302f13b5e0272/16.png" width="16" height="16"> <a href="https://github.com/nennneko5787">nennneko5787</a>
-	</p>
 </div>
 
 ## コンテンツ
