@@ -21,5 +21,5 @@ lang: ja-JP
 
 ## コンテンツ
 - [サーバーを構築する](/docs/jp/server/)
-- [プラグインを書く](/docs/jp/plugin/)
 - [コンフィグ](/docs/jp/config/)
+- [プラグインを書く](/docs/jp/plugin/)

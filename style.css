@@ -1,3 +1,11 @@
 .page {
 	padding: 10px;
 }
+
+.maeato {
+	border: solid 2px;
+	border-color: var(--bs-body-color);
+	border-radius: 10px;
+	width: 50%;
+	height: 20%;
+}
