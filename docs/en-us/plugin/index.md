@@ -46,6 +46,6 @@ In this way, plugins can be written.
 <div style="display: flex;">
 	<div class="maeato">
 		<b>back</b><br>
-		<a href="/docs/jp/config/">Config</a>
+		<a href="/docs/en-us/config/">Config</a>
 	</div>
 </div>

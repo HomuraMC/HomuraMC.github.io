@@ -134,11 +134,11 @@ Congratulations, you have successfully built HomuraMC! If you have made it this 
 <div style="display: flex;">
 	<div class="maeato">
 		<b>back</b><br>
-		<a href="/docs/jp/">Main Page</a>
+		<a href="/docs/en-us/">Main Page</a>
 	</div>
 
 	<div class="maeato">
 		<b>next</b><br>
-		<a href="/docs/jp/config/">Config</a>
+		<a href="/docs/en-us/config/">Config</a>
 	</div>
 </div>

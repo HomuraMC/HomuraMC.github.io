@@ -20,6 +20,6 @@ Welcome to **HomuraMC**. Here is the official documentation for **HomuraMC**, th
 </div>
 
 ## Contents
-- [Build a server](/docs/jp/server/)
-- [Config](/docs/jp/config/)
-- [Writing Plugins](/docs/jp/plugin/)
+- [Build a server](/docs/en-us/server/)
+- [Config](/docs/en-us/config/)
+- [Writing Plugins](/docs/en-us/plugin/)

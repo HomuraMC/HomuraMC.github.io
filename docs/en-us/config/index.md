@@ -71,11 +71,11 @@ eula = False
 <div style="display: flex;">
 	<div class="maeato">
 		<b>back</b><br>
-		<a href="/docs/jp/server/">Build a server</a>
+		<a href="/docs/en-us/server/">Build a server</a>
 	</div>
 
 	<div class="maeato">
 		<b>next</b><br>
-		<a href="/docs/jp/plugin/">Writing Plugins</a>
+		<a href="/docs/en-us/plugin/">Writing Plugins</a>
 	</div>
 </div>
