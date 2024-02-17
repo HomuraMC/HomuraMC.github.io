@@ -44,7 +44,7 @@ lang: ja-JP
 	</tr>
 	<tr>
 		<td>Mac</td>
-		<td>△<a href="#sys-ok-2"><small>*1</small></a></td>
+		<td>△<a href="#sys-ok-2"><small>*2</small></a></td>
 	</tr>
 	<tr>
 		<td>Linux</td>
